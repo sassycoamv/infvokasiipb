@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smt>
+  <datasmt2>
+	<no>1</no>
+	<kode>DIP 117</kode>
+    <matkul>Pengantar Agroindusri</matkul>
+    <sks>2 (2-0)</sks>
+  </datasmt2>
+  <datasmt2>
+	<no>2</no>
+	<kode>DIP 110</kode>
+    <matkul>Bahasa Inggris</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt2>
+  <datasmt2>
+	<no>3</no>
+	<kode>INF 106</kode>
+    <matkul>Aljabar Linear</matkul>
+    <sks>2 (1-2)</sks>
+  </datasmt2>
+  <datasmt2>
+	<no>4</no>
+	<kode>INF 107</kode>
+    <matkul>Aplikasi Desain Grafis</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt2>
+  <datasmt2>
+	<no>5</no>
+	<kode>INF 108</kode>
+    <matkul>Logika Matematika</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt2>
+  <datasmt2>
+	<no>6</no>
+	<kode>INF 109</kode>
+    <matkul>Bahasa Pemrograman</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt2>
+  <datasmt2>
+	<no>7</no>
+	<kode>INF 110</kode>
+    <matkul>Komunikasi Data dan Jaringan Komputer</matkul>
+    <sks>4 (2-4)</sks>
+  </datasmt2> 
+  <datasmt2>
+	<no>8</no>
+	<kode>INF 111</kode>
+    <matkul>Struktur Data</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt2>   
+</smt>

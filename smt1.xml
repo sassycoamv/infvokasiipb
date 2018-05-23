@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smt>
+  <datasmt>
+	<no>1</no>
+	<kode>DIP 100</kode>
+    <matkul>Pendidikan Agama</matkul>
+    <sks>2 (2-0)</sks>
+  </datasmt>
+  <datasmt>
+	<no>2</no>
+	<kode>DIP 107</kode>
+    <matkul>Pendidikan Pancasila dan Kewarnganegaraan</matkul>
+    <sks>3 (2-2)</sks>
+  </datasmt>
+  <datasmt>
+	<no>3</no>
+	<kode>INF 101</kode>
+    <matkul>Aplikasi Komputer</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>4</no>
+	<kode>INF 102</kode>
+    <matkul>Probabilitas dan Statistika</matkul>
+    <sks>2 (1-2)</sks>
+  </datasmt>
+  <datasmt>
+	<no>5</no>
+	<kode>INF 103</kode>
+    <matkul>Algoritma dan Pemrograman</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>6</no>
+	<kode>INF 104</kode>
+    <matkul>Matematika Diskret</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>7</no>
+	<kode>INF 105</kode>
+    <matkul>Dasar Manajemen Informatika</matkul>
+    <sks>3 (2-2)</sks>
+  </datasmt>  
+ 
+</smt>

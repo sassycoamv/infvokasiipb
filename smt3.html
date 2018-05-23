@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+table,th,td {
+  border : 1px solid black;
+  border-collapse: collapse;
+}
+th,td {
+  padding: 5px;
+}
+</style>
+<body>
+
+<h1 align="center"><strong>SEMESTER 3</strong></h1>
+<p align="center">Silahkan PILIH dan KLIK Mata Kuliah yang ingin dilihat info lengkapnya</p>
+<p id='showSemester'></p>
+<table id="demo"></table>
+
+<script>
+var x,xmlhttp,xmlDoc
+xmlhttp = new XMLHttpRequest();
+xmlhttp.open("GET", "smt3.xml", false);
+xmlhttp.send();
+xmlDoc = xmlhttp.responseXML; 
+x = xmlDoc.getElementsByTagName("datasmt");
+table="<tr><th>No</th><th>Mata Kuliah</th></tr>";
+for (i = 0; i <x.length; i++) { 
+  table += "<tr onclick='displayCD(" + i + ")'><td>";
+  table +=  x[i].getElementsByTagName("no")[0].childNodes[0].nodeValue;
+  table += "</td><td>";
+  table +=  x[i].getElementsByTagName("matkul")[0].childNodes[0].nodeValue;
+  table += "</td></tr>";
+}
+document.getElementById("demo").innerHTML = table;
+
+function displayCD(i) {
+  document.getElementById("showSemester").innerHTML =
+  "Kode: " +
+  x[i].getElementsByTagName("kode")[0].childNodes[0].nodeValue +
+  "<br>Mata Kuliah: " +
+  x[i].getElementsByTagName("matkul")[0].childNodes[0].nodeValue +
+  "<br>SKS: " +
+  x[i].getElementsByTagName("sks")[0].childNodes[0].nodeValue;
+}
+</script>
+
+</body>
+</html>
+

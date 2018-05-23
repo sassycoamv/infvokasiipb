@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smt>
+  <datasmt>
+	<no>1</no>
+	<kode>INF 201</kode>
+    <matkul>Arsitektur dan Organisasi Komputer</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>2</no>
+	<kode>INF 202</kode>
+    <matkul>Teknik Riset Operasi</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>3</no>
+	<kode>INF 203</kode>
+    <matkul>Basis Data</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>4</no>
+	<kode>INF 204</kode>
+    <matkul>Analisis dan Perancangan Sistem Informasi</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>5</no>
+	<kode>INF 205</kode>
+    <matkul>Pemrograman Berorientasi Objek</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>6</no>
+	<kode>INF 206</kode>
+    <matkul>Sistem Operasi</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>7</no>
+	<kode>INF 207</kode>
+    <matkul>Penerbitan dan Grafika</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>  
+ 
+</smt>

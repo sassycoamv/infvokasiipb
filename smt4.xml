@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smt>
+  <datasmt>
+	<no>1</no>
+	<kode>DIP 109</kode>
+    <matkul>Bahasa Indonesia</matkul>
+    <sks>3 (2-2)</sks>
+  </datasmt>
+  <datasmt>
+	<no>2</no>
+	<kode>MAB 108</kode>
+    <matkul>Kewirausahaan</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>3</no>
+	<kode>INF 208</kode>
+    <matkul>Pemrosesan Data Elektronis</matkul>
+    <sks>2 (1-2)</sks>
+  </datasmt>
+  <datasmt>
+	<no>4</no>
+	<kode>TEK 206</kode>
+    <matkul>Sistem Klien Server</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>5</no>
+	<kode>INF 301</kode>
+    <matkul>Pemrograman Mobile</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>6</no>
+	<kode>INF 209</kode>
+    <matkul>Multimedia Interaktif</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>7</no>
+	<kode>INF 210</kode>
+    <matkul>Perancangan Web</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>  
+    <datasmt>
+	<no>8</no>
+	<kode>INF 211</kode>
+    <matkul>Sistem Informasi Manajemen</matkul>
+    <sks>4 (2-4)</sks>
+  </datasmt>  
+ 
+</smt>

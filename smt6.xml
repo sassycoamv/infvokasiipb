@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smt>
+  <datasmt>
+	<no>1</no>
+	<kode>INF 397</kode>
+    <matkul>Praktik Kerja Lapangan</matkul>
+    <sks>4</sks>
+  </datasmt>
+  <datasmt>
+	<no>2</no>
+	<kode>INF 398</kode>
+    <matkul>Seminar</matkul>
+    <sks>1</sks>
+  </datasmt>
+  <datasmt>
+	<no>3</no>
+	<kode>INF 399</kode>
+    <matkul>Laporan Akhir</matkul>
+    <sks>3</sks>
+  </datasmt> 
+</smt>

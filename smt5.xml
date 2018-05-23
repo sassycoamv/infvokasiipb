@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smt>
+  <datasmt>
+	<no>1</no>
+	<kode>INF 302</kode>
+    <matkul>Etika Profesi Bidang Teknologi Informasi</matkul>
+    <sks>1 (1-0)</sks>
+  </datasmt>
+  <datasmt>
+	<no>2</no>
+	<kode>INF 303</kode>
+    <matkul>Pengembangan Aplikasi Berbasis Web</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>3</no>
+	<kode>INF 304</kode>
+    <matkul>Rekayasa Perangkat Lunak</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>4</no>
+	<kode>INF 305</kode>
+    <matkul>Sistem Informasi Pemerintahan</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>5</no>
+	<kode>INF 306</kode>
+    <matkul>Teknik Multimedia</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>6</no>
+	<kode>INF 307</kode>
+    <matkul>Sistem Informasi Geografis</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>
+  <datasmt>
+	<no>7</no>
+	<kode>INF 308</kode>
+    <matkul>Program Pengolahan Data Statistika</matkul>
+    <sks>3 (1-4)</sks>
+  </datasmt>  
+ 
+</smt>
